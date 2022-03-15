@@ -1,0 +1,8 @@
+.Pokedex {
+    /* background-color: rgb(219, 116, 116); */
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    padding: 20px;
+    column-gap: 80px;
+    row-gap: 50px;
+}
