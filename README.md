@@ -1,2 +1,1 @@
-# reactPokemon
- 
+The project displays the pokemon cards which are accessing data from pokemon API.
